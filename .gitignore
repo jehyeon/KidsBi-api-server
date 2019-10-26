@@ -4,6 +4,7 @@ LICENSE.txt
 Lib/
 Scripts/
 tcl/
+bin
 
 ### Django ### 
 *.log
