@@ -18,14 +18,18 @@ from django.contrib import admin
 from rest_framework import routers
 from rest_framework_swagger.views import get_swagger_view
 
+# Importing models
 import video.api
+import category.api
 
 router = routers.DefaultRouter()
 router.register('videos', video.api.VideoViewSet)
+router.register('categories', category.api.CategoryViewSet)
 
 urlpatterns = [
     # path('admin/', admin.site.urls),
     url(r'^admin/', admin.site.urls),
     url(r'^api/doc', get_swagger_view(title='Rest API Document')),
     url(r'^api/v1/', include((router.urls, 'video'), namespace='api')),
+    url(r'^api/v1/', include((router.urls, 'category'), namespace='api')),
 ]
