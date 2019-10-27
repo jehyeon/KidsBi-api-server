@@ -9,7 +9,7 @@ class Video(models.Model):
   categories = models.CharField(max_length=255)
   videoId = models.CharField(max_length=50)
   videoThumbnail = models.CharField(max_length=255)
-  videoFile = models.CharField(max_length=255)
+  videoFile = models.CharField(max_length=1000)
   # like = models.DecimalField()
   likeRatio = models.IntegerField()
   viewCount = models.IntegerField(default=0)

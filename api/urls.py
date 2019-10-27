@@ -30,6 +30,6 @@ urlpatterns = [
     # path('admin/', admin.site.urls),
     url(r'^admin/', admin.site.urls),
     url(r'^api/doc', get_swagger_view(title='Rest API Document')),
-    url(r'^api/v1/', include((router.urls, 'video'), namespace='api')),
+    url(r'^api/v2/', include((router.urls, 'video'), namespace='api')),
     url(r'^api/v1/', include((router.urls, 'category'), namespace='api')),
 ]
