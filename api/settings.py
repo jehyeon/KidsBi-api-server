@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_swagger',
     'django_filters',
-    'video'
+    'video',
+    'category'
 ]
 
 REST_FRAMEWORK = {
