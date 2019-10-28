@@ -21,15 +21,19 @@ from rest_framework_swagger.views import get_swagger_view
 # Importing models
 import video.api
 import category.api
+import quiz.api
 
 videoRouter = routers.DefaultRouter()
 categoryRouter = routers.DefaultRouter()
+quizCategory = routers.DefaultRouter()
 
 videoRouter.register('videos', video.api.VideoViewSet)
 categoryRouter.register('categories', category.api.CategoryViewSet)
+quizCategory.register('quizzes', quiz.api.QuizViewSet)
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^api/', include((videoRouter.urls, 'video'), namespace='video')),
     url(r'^api/', include((categoryRouter.urls, 'category'), namespace='category')),
+    url(r'^api/', include((quizCategory.urls, 'quiz'), namespace='quiz')),
 ]
