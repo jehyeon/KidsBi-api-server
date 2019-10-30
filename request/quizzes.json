@@ -1,0 +1,275 @@
+[ 
+  { 
+     "question":"황갈색 바탕에 몸을 가로지르는 검은색에 가까운 줄무늬가 있는 사진 속 동물은 무엇일까요?",
+     "url":"https://i.imgur.com/soqHwQn.jpg",
+     "options":"호랑이,고양이,토끼,기린",
+     "answer":0,
+     "category":"Animal"
+  },
+  { 
+     "question":"멍멍!거리면서 짖는 사진 속 동물은 무엇인가요?",
+     "url":"https://i.imgur.com/rmcO5uq.jpg",
+     "options":"강아지,코끼리,하마,고양이",
+     "answer":0,
+     "category":"Animal"
+  },
+  { 
+     "question":"몸이 뚱뚱하고 분홍색이며 코는 넓은 판처럼 생겼고, 가운데에 콧구멍이 두 개인 사진 속 동물 이름은?",
+     "url":"https://i.imgur.com/5QbEYqf.jpg",
+     "options":"기린,돼지,악어,염소",
+     "answer":1,
+     "category":"Animal"
+  },
+  { 
+     "question":"꼬끼오~하면서 우는 사진 속 동물은 무엇인가요?",
+     "url":"https://i.imgur.com/buFnjx5.jpg",
+     "options":"양,말,닭,낙타",
+     "answer":2,
+     "category":"Animal"
+  },
+  { 
+     "question":"대나무 잎을 먹으며 눈 주위에 검은 털이 있는 사진 속 동물 이름은?",
+     "url":"https://i.imgur.com/ObTuR6x.jpg",
+     "options":"곰,두더지,판다,소",
+     "answer":2,
+     "category":"Animal"
+  },
+  { 
+     "question":"수컷은 갈기가 있고 암컷은 갈기가 없어요. 고양잇과 동물 가운데 유일하게 무리를 지어 사는 사진 속 동물은?",
+     "url":"https://i.imgur.com/sKOminT.jpg",
+     "options":"호랑이,다람쥐,코알라,사자",
+     "answer":3,
+     "category":"Animal"
+  },
+  { 
+     "question":"야옹~하면서 우는 사진 속 동물은 무엇일까요?",
+     "url":"https://i.imgur.com/NpzoaFt.jpg",
+     "options":"고양이,강아지,돌고래,쥐",
+     "answer":0,
+     "category":"Animal"
+  },
+  { 
+     "question":"코가 긴 사진 속 동물은 무엇인가요?",
+     "url":"https://i.imgur.com/OSamVK6.jpg",
+     "options":"기린,늑대,코끼리,하마",
+     "answer":2,
+     "category":"Animal"
+  },
+  { 
+     "question":"갈기와 발굽이 있는 사진 속 동물 이름은?",
+     "url":"https://imgur.com/RRTuFOX.jpg",
+     "options":"말,하마,악어,코끼리",
+     "answer":1,
+     "category":"Animal"
+  },
+  { 
+     "question":"바다에 살며 몸이 유선형이고, 부리처럼 생긴 윤곽이 뚜렷한 주둥이를 가진 사진 속 동물은?",
+     "url":"https://i.imgur.com/Yg8VUAH.jpg",
+     "options":"물고기,낙타,돌고래,닭",
+     "answer":2,
+     "category":"Animal"
+  },
+  { 
+     "question":"햇빛에 따라 스스로 위치를 바꾸며 노란색 꽃잎이 서로 붙어 있는 사진 속 꽃 이름은?",
+     "url":"https://imgur.com/84W19OT.jpg",
+     "options":"해바라기,나팔꽃,튤립,장미",
+     "answer":0,
+     "category":"Flower"
+  },
+  { 
+     "question":"예부터 전해지는 미신에 따르면 행운을 가져온다고하며, 네 잎을 가지는 사진 속 식물의 이름은?",
+     "url":"https://imgur.com/FlIDQmI.jpg",
+     "options":"네잎클로버,백합,초롱꽃,개나리",
+     "answer":0,
+     "category":"Flower"
+  },
+  { 
+     "question":"흰 솜뭉치였다가 진노란색으로 바뀌면서 아파트 화단에서 쉽게 볼 수 있는 사진 속 꽃의 이름은?",
+     "url":"https://cdn.pixabay.com/photo/2019/09/30/19/47/dandelion-4516660_1280.jpg",
+     "options":"라벤더,민들레,선인장,장미",
+     "answer":1,
+     "category":"Flower"
+  },
+  { 
+     "question":"4갈래로 갈라지는 별모양의 노란 꽃인 사진 속 꽃의 이름은?",
+     "url":"https://imgur.com/BRKm7zm.jpg",
+     "options":"무궁화,벚꽃,개나리,튤립",
+     "answer":2,
+     "category":"Flower"
+  },
+  { 
+     "question":"기다란 꽃대 위에 보라색의 작고 기다란 타원형의 꽃망울들이 옹기종기 매달린 사진 속 꽃의 이름은 무엇일까요?",
+     "url":"https://imgur.com/YbHmZSp.jpg",
+     "options":"해바라기,나팔꽃,민들레,라벤더",
+     "answer":3,
+     "category":"Flower"
+  },
+  { 
+     "question":"짙은 보라색이며 심장 모양 또는 둥근 형태의 세 갈래 잎으로 되어있는 사진 속 꽃의 이름은?",
+     "url":"https://imgur.com/7qbCEEp.jpg",
+     "options":"선인장,나팔꽃,개나리,철쭉",
+     "answer":1,
+     "category":"Flower"
+  },
+  { 
+     "question":"대표적으로 빨간색 꽃잎을 갖고 있으며 잎이 삼각으로 말려있으며 줄기에는 가시가 있는 사진 속 꽃은 무엇일까요?",
+     "url":"https://imgur.com/FKZfMhu.jpg",
+     "options":"개나리,라벤더,튤립,장미",
+     "answer":3,
+     "category":"Flower"
+  },
+  { 
+     "question":"우리나라를 상징하는 꽃으로 '영원히 피고 또 피어서 지지 않는 꽃'이라는 뜻을 갖고 있는 이 꽃의 이름은 뭘까요?",
+     "url":"https://imgur.com/biczK8s.jpg",
+     "options":"클로버,무궁화,벚꽃,백합",
+     "answer":1,
+     "category":"Flower"
+  },
+  { 
+     "question":"빨간색, 노란색 등 여러 색으로 넓은 종 모양을 하고 있는 사진 속 꽃의 이름은?",
+     "url":"https://imgur.com/UXOODus.jpg",
+     "options":"국화,철쭉,튤립,카네이션",
+     "answer":2,
+     "category":"Flower"
+  },
+  { 
+     "question":"노란색 껍질을 벗겨서 먹으며 조금 휘어져 있는 사진 속 과일은?",
+     "url":"https://imgur.com/qAq0Sz8.jpg",
+     "options":"망고,딸기,바나나,오이",
+     "answer":2,
+     "category":"Fruit"
+  },
+  { 
+     "question":"아삭아삭하며 겉은 빨갛고, 속은 하얀 사진 속 과일은 무엇일까요? ",
+     "url":"https://imgur.com/8QrCz7K.jpg.jpg",
+     "options":"사과,딸기,배,참외",
+     "answer":0,
+     "category":"Fruit"
+  },
+  { 
+     "question":"자주색을 띄며 꼭지가 달려있는 사진 속 과일 이름은?",
+     "url":"https://imgur.com/LZbloGq.jpg",
+     "options":"구아바,체리,금귤,파인애플",
+     "answer":1,
+     "category":"Fruit"
+  },
+  { 
+     "question":"알이 여러개 모여 있으며 대표적으로 보라색을 띄는 사진 속 과일 이름은?",
+     "url":"https://imgur.com/S0fVK1h.jpg",
+     "options":"포도,사과,키위,파파야",
+     "answer":0,
+     "category":"Fruit"
+  },
+  { 
+     "question":"까실까실한 갈색털의 껍질을 가진 사진 속 과일은?",
+     "url":"https://imgur.com/ht9hpDy.jpg",
+     "options":"아보카도,자두,고구마,키위",
+     "answer":3,
+     "category":"Fruit"
+  },
+  { 
+     "question":"동그랗게 생겼으며 주황색인 사진 속 과일 이름은 무엇일까요?",
+     "url":"https://imgur.com/3oML8sj.jpg",
+     "options":"망고,감,오렌지,사과",
+     "answer":2,
+     "category":"Fruit"
+  },
+  { 
+     "question":"대부분 분홍색을 띄며 껍질에 잔 털이 나 있는 사진 속 과일은? ",
+     "url":"https://imgur.com/1MP0XAA.jpg",
+     "options":"복숭아,딸기,포도,파인애플",
+     "answer":0,
+     "category":"Fruit"
+  },
+  { 
+     "question":"모양은 둥글며 껍질을 까면 붉은색의 과육이 나오는 사진 속 과일 이름은?",
+     "url":"https://imgur.com/19dwFrK.jpg",
+     "options":"자몽,파인애플,석류,메론",
+     "answer":1,
+     "category":"Fruit"
+  },
+  { 
+     "question":"빨간 세모 모양에 초록 꼭지가 달린 사진 속 과일 이름은?",
+     "url":"https://imgur.com/UsLONCv.jpg",
+     "options":"블루베리,레몬,석류,딸기",
+     "answer":3,
+     "category":"Fruit"
+  },
+  { 
+     "question":"주먹만한 크기에 노란 껍질 속 하얀 과육이 들어있는 사진 속 과일은?",
+     "url":"https://imgur.com/B0SmziM.jpg",
+     "options":"귤,자두,참외,호박",
+     "answer":2,
+     "category":"Fruit"
+  },
+  { 
+     "question":"그림에 있는 사과 3개와 귤 2개를 모두 더하면 몇 개일까요?",
+     "url":"https://imgur.com/xKbkYFI.jpg",
+     "options":"3개,4개,5개,6개",
+     "answer":2,
+     "category":"Math"
+  },
+  { 
+     "question":"동물 농장에 오리가 2마리, 닭이 1마리 있어요. 농장에 있는 동물 친구는 모두 몇 마리일까요?",
+     "url":"https://imgur.com/undefined.jpg",
+     "options":"3마리,4마리,5마리,6마리",
+     "answer":0,
+     "category":"Math"
+  },
+  { 
+     "question":"엄마가 문방구에 가서 연필 3자루, 펜 2자루를 사오라고 심부름을 시켰어요. 총 몇 개를 사야 할까요?",
+     "url":"https://imgur.com/luyQrMX.jpg",
+     "options":"3자루,4자루,5자루,6자루",
+     "answer":2,
+     "category":"Math"
+  },
+  { 
+     "question":"오늘 공룡 마을에 티라노사우르스 2마리와 스테고사우루스 6마리가 태어났어요. 총 몇 마리가 태어난걸까요?",
+     "url":"https://imgur.com/k5mOtXh.jpg",
+     "options":"5마리,6마리,7마리,8마리",
+     "answer":3,
+     "category":"Math"
+  },
+  { 
+     "question":"어항에 물고기 1마리와 새우 3마리가 살고 있어요. 어항 속에는 모두 몇마리가 살고 있을까요? ",
+     "url":"https://imgur.com/z0xEd47.jpg",
+     "options":"3마리,4마리,5마리,6마리",
+     "answer":1,
+     "category":"Math"
+  },
+  { 
+     "question":"빵집에서 케이크 2개와 쿠키 5개를 샀어요. 총 몇 개를 산 걸까요?",
+     "url":"https://imgur.com/2Rbs7Hn.jpg",
+     "options":"3개,4개,7개,9개",
+     "answer":2,
+     "category":"Math"
+  },
+  { 
+     "question":"겨울왕국에 살고 있는 빨간 모자를 한 눈사람 3명, 검정 모자를 한 눈사람 1명을 집에 초대했어요. 총 몇 명 초대한 걸까요?",
+     "url":"https://imgur.com/z19mxWM.jpg",
+     "options":"1명,2명,3명,4명",
+     "answer":3,
+     "category":"Math"
+  },
+  { 
+     "question":"우유 2개와 치즈 4개를 사오라는 심부름을 받았어요. 총 몇 개를 사야 할까요?",
+     "url":"https://imgur.com/KOBX4ME.jpg",
+     "options":"6개,7개,8개,9개",
+     "answer":0,
+     "category":"Math"
+  },
+  { 
+     "question":"꽃밭에 빨강색 꽃 4송이와 노랑색 꽃 5송이가 심어져있어요. 모두 몇 송이가 꽃밭에 심어져 있을까요?",
+     "url":"https://imgur.com/iJTtxoG.jpg",
+     "options":"3송이,5송이,7송이,9송이",
+     "answer":3,
+     "category":"Math"
+  },
+  { 
+     "question":"식탁에 숟가락 2개와 포크 4개를 모두 더하면 몇 개 일까요?",
+     "url":"https://imgur.com/hx9FAci.jpg",
+     "options":"3개,4개,5개,6개",
+     "answer":3,
+     "category":"Math"
+  }
+]

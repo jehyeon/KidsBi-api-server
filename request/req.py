@@ -25,18 +25,22 @@ def addData(urlType, apiType, datas):
   for data in datas:
     # Input format you wanted
     newData = {
-      'videoCategory': data['videoCategory'],
-      'imageURL': data['imageUrl']
+      'question': data['question'],
+      'url': data['url'],
+      'options': data['options'],
+      'answer': data['answer'],
+      'category': data['category']
     }
+    print(newData)
     # -------------------------
     res = requests.post(url=urlType + apiType, headers=headers, data=json.dumps(newData))
     print(res)
     print('Added {0}'.format(str(newData)))
 
 def main():
-  # deleteAll (localUrl, categoryApi, 50)
-  with open('datas.json', 'r', encoding='utf8') as datas:
-    addData(localUrl, categoryApi, json.load(datas))
+  # deleteAll (localUrl, quizApi, 137)
+  with open('quizzes.json', 'r', encoding='utf8') as datas:
+    addData(localUrl, quizApi, json.load(datas))
 
 if __name__ == '__main__':
   main()
