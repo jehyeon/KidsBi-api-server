@@ -1,14 +1,14 @@
 from django.shortcuts import render
 from django.core import serializers
-from django.http import HttpResponse
-
+from django.http import HttpResponse, JsonResponse
 from subprocess import call, check_output
 import youtube_dl
 import json
-# import .models from .
+import random
 
-# Create your views here.
-def test(request, videoId):
+from .models import Video
+
+def convertId(request, videoId):
   # temp = Video.objects.all()
   # temp_list = serializers.serialize('json', temp)
   # videoId = 'wFJyfZhxqlU'
@@ -18,3 +18,10 @@ def test(request, videoId):
     'url': url
   }
   return HttpResponse(json.dumps(response), content_type='application/json')
+
+def randomVideos(request):
+  datas = Video.objects.values()
+  randomVideos = list(datas)
+  random.shuffle(randomVideos)
+
+  return JsonResponse(randomVideos[:5], safe=False)
