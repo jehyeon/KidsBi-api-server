@@ -36,4 +36,5 @@ urlpatterns = [
     url(r'^api/', include((videoRouter.urls, 'video'), namespace='video')),
     url(r'^api/', include((categoryRouter.urls, 'category'), namespace='category')),
     url(r'^api/', include((quizRouter.urls, 'quiz'), namespace='quiz')),
+    url(r'^convert/', include('video.urls'))
 ]
