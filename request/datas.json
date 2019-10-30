@@ -1,0 +1,58 @@
+[
+  {
+      "videoCategory": "Popular",
+      "imageUrl": "https://i.imgur.com/PcBvhd4.jpg"
+  },
+  {
+      "videoCategory": "Aesop",
+      "imageUrl": "https://i.imgur.com/dZ2aZhb.jpg"
+  },
+  {
+      "videoCategory": "Bed",
+      "imageUrl": "https://i.imgur.com/vVCrDs6.jpg"
+  },
+  {
+      "videoCategory": "Car",
+      "imageUrl": "https://i.imgur.com/DYaKakg.jpg"
+  },
+  {
+      "videoCategory": "Christmas",
+      "imageUrl": "https://i.imgur.com/D6JhGm8.jpg"
+  },
+  {
+      "videoCategory": "Collection",
+      "imageUrl": "https://i.imgur.com/HxguX8O.jpg"
+  },
+  {
+      "videoCategory": "Constellation",
+      "imageUrl": "https://i.imgur.com/Mpm7uAZ.jpg"
+  },
+  {
+      "videoCategory": "Dinosaur",
+      "imageUrl": "https://i.imgur.com/2g0ATKz.jpg"
+  },
+  {
+      "videoCategory": "English",
+      "imageUrl": "https://i.imgur.com/2K2q6rD.jpg"
+  },
+  {
+      "videoCategory": "Korean tradition",
+      "imageUrl": "https://i.imgur.com/1pOfc7S.jpg"
+  },
+  {
+      "videoCategory": "Musical",
+      "imageUrl": "https://i.imgur.com/T4kGmou.jpg"
+  },
+  {
+      "videoCategory": "Princess",
+      "imageUrl": "https://i.imgur.com/PBlB52D.jpg"
+  },
+  {
+      "videoCategory": "Science",
+      "imageUrl": "https://i.imgur.com/rCGC37t.jpg"
+  },
+  {
+      "videoCategory": "Shadow",
+      "imageUrl": "https://i.imgur.com/QPO4XsC.jpg"
+  }
+]
