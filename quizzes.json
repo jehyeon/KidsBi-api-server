@@ -1,478 +1,142 @@
 [
-     {
-        "question": "황갈색 바탕에 몸을 가로지르는 검은색에 가까운 줄무늬가 있는 사진 속 동물은 무엇일까요?",
-          "url": "https://i.imgur.com/soqHwQn.jpg",
-        "options": "호랑이,고양이,토끼,기린",
-        "answer": 0, 
-		"category": "Animal"
-      },
-      {
-        "question": "멍멍!거리면서 짖는 사진 속 동물은 무엇인가요?",
-          "url": "https://i.imgur.com/rmcO5uq.jpg",
-        "options": "강아지,코끼리,하마,고양이",
-        "answer": 0, 
-		"category": "Animal"
-      },
-      {
-        "question": "몸이 뚱뚱하고 분홍색이며 코는 넓은 판처럼 생겼고, 가운데에 콧구멍이 두 개인 사진 속 동물 이름은?",
-          "url": "https://i.imgur.com/5QbEYqf.jpg",
-        "options": "기린,돼지,악어,염소",
-        "answer": 1, 
-		"category": "Animal"
-      },
-      {
-        "question": "꼬끼오~하면서 우는 사진 속 동물은 무엇인가요?",
-          "url": "https://i.imgur.com/buFnjx5.jpg",
-        "options": "양,말,닭,낙타",
-        "answer": 2, 
-		"category": "Animal"
-      },
-      {
-        "question": "대나무 잎을 먹으며 눈 주위에 검은 털이 있는 사진 속 동물 이름은?",
-          "url": "https://i.imgur.com/ObTuR6x.jpg",
-        "options": "곰,두더지,판다,소",
-        "answer": 2, 
-		"category": "Animal"
-      },
-      {
-        "question": "수컷은 갈기가 있고 암컷은 갈기가 없어요. 고양잇과 동물 가운데 유일하게 무리를 지어 사는 사진 속 동물은?",
-          "url": "https://i.imgur.com/sKOminT.jpg",
-        "options": "호랑이,다람쥐,코알라,사자",
-        "answer": 3,
-		"category": "Animal"
-      },
-      {
-        "question": "야옹~하면서 우는 사진 속 동물은 무엇일까요?",
-          "url": "https://i.imgur.com/NpzoaFt.jpg",
-        "options": "고양이,강아지,돌고래,쥐",
-        "answer": 0,
-		"category": "Animal"
-      },
-      {
-        "question": "코가 긴 사진 속 동물은 무엇인가요?",
-          "url": "https://i.imgur.com/OSamVK6.jpg",
-        "options": "기린,늑대,코끼리,하마",
-        "answer": 2, 
-		"category": "Animal"
-      },
-      {
-        "question": "갈기와 발굽이 있는 사진 속 동물 이름은?",
-          "url": "https://imgur.com/RRTuFOX.jpg",
-        "options": "말,하마,악어,코끼리",
-        "answer": 1, 
-		"category": "Animal"
-      },
-      {
-        "question": "바다에 살며 몸이 유선형이고, 부리처럼 생긴 윤곽이 뚜렷한 주둥이를 가진 사진 속 동물은?",
-          "url": "https://i.imgur.com/Yg8VUAH.jpg",
-        "options": "물고기,낙타,돌고래,닭",
-        "answer": 2,
-		"category": "Animal"
-      },
-      {
-        "question": "햇빛에 따라 스스로 위치를 바꾸며 노란색 꽃잎이 서로 붙어 있는 사진 속 꽃 이름은?",
-          "url": "https://imgur.com/84W19OT.jpg",
-        "options": "해바라기,나팔꽃,튤립,장미",
-        "answer": 0, 
-		"category": "Flower"
-      },
-      {
-        "question": "예부터 전해지는 미신에 따르면 행운을 가져온다고하며, 네 잎을 가지는 사진 속 식물의 이름은?",
-          "url": "https://imgur.com/FlIDQmI.jpg",
-        "options": "네잎클로버,백합,초롱꽃,개나리",
-        "answer": 0, 
-		"category": "Flower"
-      },
-      {
-        "question": "흰 솜뭉치였다가 진노란색으로 바뀌면서 아파트 화단에서 쉽게 볼 수 있는 사진 속 꽃의 이름은?",
-          "url": https://cdn.pixabay.com/photo/2019/09/30/19/47/dandelion-4516660_1280.jpg",
-        "options": "라벤더,민들레,선인장,장미",
-        "answer": 1,
-		"category": "Flower"
-      },
-      {
-        "question": "4갈래로 갈라지는 별모양의 노란 꽃인 사진 속 꽃의 이름은?",
-          "url": "https://imgur.com/BRKm7zm.jpg",
-        "options": "무궁화,벚꽃,개나리,튤립",
-        "answer": 2,
-		"category": "Flower"
-      },
-      {
-        "question": "기다란 꽃대 위에 보라색의 작고 기다란 타원형의 꽃망울들이 옹기종기 매달린 사진 속 꽃의 이름은 무엇일까요?",
-          "url": "https://imgur.com/YbHmZSp.jpg",
-        "options": "해바라기,나팔꽃,민들레,라벤더",
-        "answer": 3, 
-		"category": "Flower"
-      },
-      {
-        "question": "짙은 보라색이며 심장 모양 또는 둥근 형태의 세 갈래 잎으로 되어있는 사진 속 꽃의 이름은?",
-          "url": "https://imgur.com/7qbCEEp.jpg",
-        "options": "선인장,나팔꽃,개나리,철쭉",
-        "answer": 1, 
-		"category": "Flower"
-      },
-      {
-        "question": "대표적으로 빨간색 꽃잎을 갖고 있으며 잎이 삼각으로 말려있으며 줄기에는 가시가 있는 사진 속 꽃은 무엇일까요?",
-          "url": "https://imgur.com/FKZfMhu.jpg",
-        "options": "개나리,라벤더,튤립,장미",
-        "answer": 3, 
-		"category": "Flower"
-      },
-      {
-        "question": "우리나라를 상징하는 꽃으로 '영원히 피고 또 피어서 지지 않는 꽃'이라는 뜻을 갖고 있는 이 꽃의 이름은 뭘까요?",
-          "url": "https://imgur.com/biczK8s.jpg",
-        "options": "클로버,무궁화,벚꽃,백합",
-        "answer": 1, 
-		"category": "Flower"
-      },
-      {
-        "question": "빨간색, 노란색 등 여러 색으로 넓은 종 모양을 하고 있는 사진 속 꽃의 이름은?",
-          "url": "https://imgur.com/UXOODus.jpg",
-        "options": "국화,철쭉,튤립,카네이션",
-        "answer": 2, 
-		"category": "Flower"
-      },
-      {
-        "question": "노란색 껍질을 벗겨서 먹으며 조금 휘어져 있는 사진 속 과일은?",
-          "url": "https://imgur.com/qAq0Sz8.jpg",
-        "options": "망고,딸기,바나나,오이",
-        "answer": 2, 
-		"category": "Fruit"
-      },
-      {
-        "question": "아삭아삭하며 겉은 빨갛고, 속은 하얀 사진 속 과일은 무엇일까요? ",
-          "url": "https://imgur.com/8QrCz7K.jpg.jpg",
-        "options": "사과,딸기,배,참외",
-        "answer": 0,
-		"category": "Fruit"
-      },
-      {
-        "question": "자주색을 띄며 꼭지가 달려있는 사진 속 과일 이름은?",
-          "url": "https://imgur.com/LZbloGq.jpg",
-        "options": "구아바,체리,금귤,파인애플",
-        "answer": 1,
-		"category": "Fruit"
-      },
-      {
-        "question": "알이 여러개 모여 있으며 대표적으로 보라색을 띄는 사진 속 과일 이름은?",
-          "url": "https://imgur.com/S0fVK1h.jpg",
-        "options": "포도,사과,키위,파파야",
-        "answer": 0,
-		"category": "Fruit"
-      },
-      {
-        "question": "까실까실한 갈색털의 껍질을 가진 사진 속 과일은?",
-          "url": "https://imgur.com/ht9hpDy.jpg",
-        "options": "아보카도,자두,고구마,키위",
-        "answer": 3, 
-		"category": "Fruit"
-      },
-      {
-        "question": "동그랗게 생겼으며 주황색인 사진 속 과일 이름은 무엇일까요?",
-          "url": "https://imgur.com/3oML8sj.jpg",
-        "options": "망고,감,오렌지,사과",
-        "answer": 2, 
-		"category": "Fruit"
-      },
-      {
-        "question": "대부분 분홍색을 띄며 껍질에 잔 털이 나 있는 사진 속 과일은? ",
-          "url": "https://imgur.com/1MP0XAA.jpg",
-        "options": "복숭아,딸기,포도,파인애플",
-        "answer": 0, 
-		"category": "Fruit"
-      },
-      {
-        "question": "모양은 둥글며 껍질을 까면 붉은색의 과육이 나오는 사진 속 과일 이름은?",
-          "url": "https://imgur.com/19dwFrK.jpg",
-        "options": "자몽,파인애플,석류,메론",
-        "answer": 1,
-		"category": "Fruit"
-      },
-      {
-        "question": "빨간 세모 모양에 초록 꼭지가 달린 사진 속 과일 이름은?",
-          "url": "https://imgur.com/UsLONCv.jpg",
-        "options": "블루베리,레몬,석류,딸기",
-        "answer": 3, 
-		"category": "Fruit"
-      },
-      {
-        "question": "주먹만한 크기에 노란 껍질 속 하얀 과육이 들어있는 사진 속 과일은?",
-          "url": "https://imgur.com/B0SmziM.jpg",
-        "options": "귤,자두,참외,호박",
-        "answer": 2, 
-		"category": "Fruit"
-      },
-      {
-        "question": "황갈색 바탕에 몸을 가로지르는 검은색에 가까운 줄무늬가 있는 사진 속 동물은 무엇일까요?",
-          "url": "https://i.imgur.com/soqHwQn.jpg",
-        "options": "tiger,cat,rabbit,giraffe",
-        "answer": 0, 
-		"category": "Animal"
-      },
-      {
-        "question": "멍멍!거리면서 짖는 사진 속 동물은 무엇인가요?",
-          "url": "https://i.imgur.com/rmcO5uq.jpg",
-        "options": "dog,elephant,hippo,cat",
-        "answer": 0, 
-		"category": "Animal"
-      },
-      {
-        "question": "몸이 뚱뚱하고 분홍색이며 코는 넓은 판처럼 생겼고, 가운데에 콧구멍이 두 개인 사진 속 동물 이름은?",
-          "url": "https://i.imgur.com/5QbEYqf.jpg",
-        "options": "giraffe,pig,crocodile,goat",
-        "answer": 1, 
-		"category": "Animal"
-      },
-      {
-        "question": "꼬끼오~하면서 우는 사진 속 동물은 무엇인가요?",
-          "url": "https://i.imgur.com/buFnjx5.jpg",
-        "options": "sheep,horse,chicken,camel",
-        "answer": 2, 
-		"category": "Animal"
-      },
-      {
-        "question": "대나무 잎을 먹으며 눈 주위에 검은 털이 있는 사진 속 동물 이름은?",
-          "url": "https://i.imgur.com/ObTuR6x.jpg",
-        "options": "bear,mloe,panda,cow",
-        "answer": 2, 
-		"category": "Animal"
-      },
-      {
-        "question": "수컷은 갈기가 있고 암컷은 갈기가 없어요. 고양잇과 동물 가운데 유일하게 무리를 지어 사는 사진 속 동물은?",
-          "url": "https://i.imgur.com/sKOminT.jpg",
-        "options": "tiger,squirrel,koala,lion",
-        "answer": 3, 
-		"category": "Animal"
-      },
-      {
-        "question": "야옹~하면서 우는 사진 속 동물은 무엇일까요?",
-          "url": "https://i.imgur.com/NpzoaFt.jpg",
-        "options": "cat,dog,dolphin,rat",
-        "answer": 0,
-		"category": "Animal"
-      },
-      {
-        "question": "코가 긴 사진 속 동물은 무엇인가요?",
-          "url": "https://i.imgur.com/OSamVK6.jpg",
-        "options": "giraffe,wolf,elephant,hippo",
-        "answer": 2, 
-		"category": "Animal"
-      },
-      {
-        "question": "갈기와 발굽이 있는 사진 속 동물 이름은?",
-          "url": "https://imgur.com/RRTuFOX.jpg",
-        "options": "horse,hippo,crocodile,elephant",
-        "answer": 1, 
-		"category": "Animal"
-      },
-      {
-        "question": "바다에 살며 몸이 유선형이고, 부리처럼 생긴 윤곽이 뚜렷한 주둥이를 가진 사진 속 동물은?",
-          "url": "https://i.imgur.com/Yg8VUAH.jpg",
-        "options": "fish,camel,dolphin,chicken",
-        "answer": 2, 
-		"category": "Animal"
-      },
-      {
-        "question": "햇빛에 따라 스스로 위치를 바꾸며 노란색 꽃잎이 서로 붙어 있는 사진 속 꽃 이름은?",
-          "url": "https://imgur.com/84W19OT.jpg",
-        "options": "sunflower,MorningGlory,tulip,rose",
-        "answer": 0, 
-		"category": "Flower"
-      },
-      {
-        "question": "예부터 전해지는 미신에 따르면 행운을 가져온다고하며, 네 잎을 가지는 사진 속 식물의 이름은?",
-          "url": "https://imgur.com/FlIDQmI.jpg",
-        "options": "clover,lily,bellflower,forsythia",
-        "answer": 0, 
-		"category": "Flower"
-      },
-      {
-        "question": "흰 솜뭉치였다가 진노란색으로 바뀌면서 아파트 화단에서 쉽게 볼 수 있는 사진 속 꽃의 이름은?",
-          "url": "https://cdn.pixabay.com/photo/2019/09/30/19/47/dandelion-4516660_1280.jpg",
-        "options": "lavender,dandelion,cactus,rose",
-        "answer": 1, 
-		"category": "Flower"
-      },
-      {
-        "question": "4갈래로 갈라지는 별모양의 노란 꽃인 사진 속 꽃의 이름은?",
-          "url": "https://imgur.com/BRKm7zm.jpg",
-        "options": "rose of sharon,cherry blossoms,forsythia,tulip",
-        "answer": 2, 
-		"category": "Flower"
-      },
-      {
-        "question": "기다란 꽃대 위에 보라색의 작고 기다란 타원형의 꽃망울들이 옹기종기 매달린 사진 속 꽃의 이름은 무엇일까요?",
-          "url": "https://imgur.com/YbHmZSp.jpg",
-        "options": "sunflower,MorningGlory,dandelion,lavender",
-        "answer": 3, 
-		"category": "Flower"
-      },
-      {
-        "question": "짙은 보라색이며 심장 모양 또는 둥근 형태의 세 갈래 잎으로 되어있는 사진 속 꽃의 이름은?",
-          "url": "https://imgur.com/7qbCEEp.jpg",
-        "options": "cactus,MorningGlory,forsythia,royal azalea",
-        "answer": 1, 
-		"category": "Flower"
-      },
-      {
-        "question": "대표적으로 빨간색 꽃잎을 갖고 있으며 잎이 삼각으로 말려있으며 줄기에는 가시가 있는 사진 속 꽃은 무엇일까요?",
-          "url": "https://imgur.com/FKZfMhu.jpg",
-        "options": "forsythia,lavender,tulip,rose",
-        "answer": 3, 
-		"category": "Flower"
-      },
-      {
-        "question": "우리나라를 상징하는 꽃으로 '영원히 피고 또 피어서 지지 않는 꽃'이라는 뜻을 갖고 있는 이 꽃의 이름은 뭘까요?",
-          "url": "https://imgur.com/biczK8s.jpg",
-        "options": "clover,rose of sharon,cherry blossoms,lily",
-        "answer": 1,
-		"category": "Flower"
-      },
-      {
-        "question": "빨간색, 노란색 등 여러 색으로 넓은 종 모양을 하고 있는 사진 속 꽃의 이름은?",
-          "url": "https://imgur.com/UXOODus.jpg",
-        "options": "chrysanthemum ,royal azalea,tulip,carnation",
-        "answer": 2, 
-		"category": "Flower"
-      },
-      {
-        "question": "노란색 껍질을 벗겨서 먹으며 조금 휘어져 있는 사진 속 과일은?",
-          "url": "https://imgur.com/qAq0Sz8.jpg",
-        "options": "mango,strawberry,banana,cucumber",
-        "answer": 2, 
-		"category": "Fruit"
-      },
-      {
-        "question": "아삭아삭하며 겉은 빨갛고, 속은 하얀 사진 속 과일은 무엇일까요?",
-          "url": "https://imgur.com/8QrCz7K.jpg.jpg",
-        "options": "apple,strawberry,pear,melon",
-        "answer": 0, 
-		"category": "Fruit"
-      },
-      {
-        "question": "자주색을 띄며 꼭지가 달려있는 사진 속 과일 이름은?",
-          "url": "https://imgur.com/LZbloGq.jpg",
-        "options": "guava,cherry,tangerine,pineapple",
-        "answer": 1, 
-		"category": "Fruit"
-      },
-      {
-        "question": "알이 여러개 모여 있으며 대표적으로 보라색을 띄는 사진 속 과일 이름은?",
-          "url": "https://imgur.com/S0fVK1h.jpg",
-        "options": "grape,apple,kiwi,papaya",
-        "answer": 0, 
-		"category": "Fruit"
-      },
-      {
-        "question": "까실까실한 갈색털의 껍질을 가진 사진 속 과일은?",
-          "url": "https://imgur.com/ht9hpDy.jpg",
-        "options": "avocado,plum,sweet potato,kiwi",
-        "answer": 3,
-		"category": "Fruit"
-      },
-      {
-        "question": "동그랗게 생겼으며 주황색인 사진 속 과일 이름은 무엇일까요?",
-          "url": "https://imgur.com/3oML8sj.jpg",
-        "options": "mango,lemon,orange,apple",
-        "answer": 2,
-		"category": "Fruit"
-      },
-      {
-        "question": "대부분 분홍색을 띄며 껍질에 잔 털이 나 있는 사진 속 과일은?",
-          "url": "https://imgur.com/1MP0XAA.jpg",
-        "options": "peach,cherry,grape,pineapple",
-        "answer": 0, 
-		"category": "Fruit"
-      },
-      {
-        "question": "모양은 둥글며 껍질을 까면 붉은색의 과육이 나오는 사진 속 과일 이름은?",
-          "url": "https://imgur.com/19dwFrK.jpg",
-        "options": "grapefruit,pineapple,Pomegranate,melon",
-        "answer": 1,
-		"category": "Fruit"
-      },
-      {
-        "question": "빨간 세모 모양에 초록 꼭지가 달린 사진 속 과일 이름은?",
-          "url": "https://imgur.com/UsLONCv.jpg",
-        "options": "blueberry,lemon,pear,strawberry",
-        "answer": 3, 
-		"category": "Fruit"
-      },
-      {
-        "question": "주먹만한 크기에 노란 껍질 속 하얀 과육이 들어있는 사진 속 과일은?",
-          "url": "https://imgur.com/B0SmziM.jpg",
-        "options": "orange,plum,melon,mango",
-        "answer": 2, 
-		"category": "Fruit"
-      },
-      {
-        "question": "그림에 있는 사과 3개와 귤 2개를 모두 더하면 몇 개일까요?",
-          "url": "https://imgur.com/xKbkYFI.jpg",
-        "options": "3개,4개,5개,6개",
-        "answer": 3,
-		"category": "Math"
-      },
-      {
-        "question": "동물 농장에 오리가 2마리, 닭이 1마리 있어요. 농장에 있는 동물 친구는 모두 몇 마리일까요?",
-          "url": "https://imgur.com/undefined.jpg",
-        "options": "3마리,4마리,5마리,6마리",
-        "answer": 1,
-		"category": "Math"
-      },
-      {
-        "question": "엄마가 문방구에 가서 연필 3자루, 펜 2자루를 사오라고 심부름을 시켰어요. 총 몇 개를 사야 할까요?",
-          "url": "https://imgur.com/luyQrMX.jpg",
-        "options": "3자루,4자루,5자루,6자루",
-        "answer": 3,
-		"category": "Math"
-      },
-      {
-        "question": "오늘 공룡 마을에 티라노사우르스 2마리와 스테고사우루스 6마리가 태어났어요. 총 몇 마리가 태어난걸까요?",
-          "url": "https://imgur.com/k5mOtXh.jpg",
-        "options": "5마리,6마리,7마리,8마리",
-        "answer": 4,
-		"category": "Math"
-      },
-      {
-        "question": "어항에 물고기 1마리와 새우 3마리가 살고 있어요. 어항 속에는 모두 몇마리가 살고 있을까요? ",
-          "url": "https://imgur.com/z0xEd47.jpg",
-        "options": "3마리,4마리,5마리,6마리",
-        "answer": 2,
-		"category": "Math"
-      },
-      {
-        "question": "빵집에서 케이크 2개와 쿠키 5개를 샀어요. 총 몇 개를 산 걸까요?",
-          "url": "https://imgur.com/2Rbs7Hn.jpg",
-        "options": "3개,4개,7개,9개",
-        "answer": 3,
-		"category": "Math"
-      },
-      {
-        "question": "겨울왕국에 살고 있는 빨간 모자를 한 눈사람 3명, 검정 모자를 한 눈사람 1명을 집에 초대했어요. 총 몇 명 초대한 걸까요?",
-          "url": "https://imgur.com/z19mxWM.jpg",
-        "options": "1명,2명,3명,4명",
-        "answer": 4,
-		"category": "Math"
-      },
-      {
-        "question": "우유 2개와 치즈 4개를 사오라는 심부름을 받았어요. 총 몇 개를 사야 할까요?",
-          "url": "https://imgur.com/KOBX4ME.jpg",
-        "options": "6개,7개,8개,9개",
-        "answer": 1,
-		"category": "Math"
-      },
-      {
-        "question": "꽃밭에 빨강색 꽃 4송이와 노랑색 꽃 5송이가 심어져있어요. 모두 몇 송이가 꽃밭에 심어져 있을까요?",
-          "url": "https://imgur.com/iJTtxoG.jpg",
-        "options": "3송이,5송이,7송이,9송이",
-        "answer": 4,
-		"category": "Math"
-      },
-      {
-        "question": "식탁에 숟가락 2개와 포크 4개를 모두 더하면 몇 개 일까요?",
-          "url": "https://imgur.com/hx9FAci.jpg",
-        "options": "3개,4개,5개,6개",
-        "answer": 4,
-		"category": "Math"
-      }
+	{
+		"question": "유럽 대륙 서북쪽에 있는 섬나라로 잉글랜드 스코틀랜드 웨일스와 북아일랜드로 이루어진 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2015/11/06/13/29/union-jack-1027898_1280.jpg",
+		"options": "멕시코,핀란드,헝가리,영국",
+		"answer": 3,
+		"category": "Country"
+	},
+	{
+		"question": "세계에서 세번째로 면적이 넓은 나라이며 다양한 민족이 이주하여 정착한 다민족국가로 세번째로 인구가 많은 나라는??",
+		"url": "https://cdn.pixabay.com/photo/2017/01/07/16/55/usa-1960922_1280.jpg",
+		"options": "대한민국,미국,인도,일본",
+		"answer": 1,
+		"category": "Country"
+	},
+	{
+		"question": "아시아 대륙의 동쪽 끝 한반도에 있는 나라로서 6.25전쟁이 일어나 휴전중인 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2013/07/13/14/17/south-korea-162427_1280.png",
+		"options": "라오스,중국,파키스탄,대한민국",
+		"answer": 3,
+		"category": "Country"
+	},
+	{
+		"question": "세계에서 인구가 가장 많은 나라로서 흉노족의 침입에 대비해 쌓은 만리장성이 있는 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2013/07/13/14/16/china-162389_1280.png",
+		"options": "아르헨티나,멕시코,중국,미국",
+		"answer": 2,
+		"category": "Country"
+	},
+	{
+		"question": "중국과 함께 우리나라에서 가장 가까운 국가로 사면이 바다로 둘러싸인 섬나라는?",
+		"url": "https://cdn.pixabay.com/photo/2013/07/13/14/15/japan-162328_1280.png",
+		"options": "스페인,모나코,일본,캐나다",
+		"answer": 2,
+		"category": "Country"
+	},
+	{
+		"question": "서유럽 끝 이베리아 반도에 있는 나라로 수도는 마드리드이고 춤과 노래, 축구를 좋아하는 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2017/10/31/23/52/spain-2906824_1280.png",
+		"options": "스페인,네덜란드,베트남,라오스",
+		"answer": 0,
+		"category": "Country"
+	},
+	{
+		"question": "유럽 대륙의 서부, 지중해와 대서양 사이에 위치한 나라로 수도는 파리인 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2013/07/13/14/15/france-162295_1280.png",
+		"options": "가나,프랑스,뉴질랜드,중국",
+		"answer": 1,
+		"category": "Country"
+	},
+	{
+		"question": "제2차 세계대전 후에 분단되었다가 1990년 통일한 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2017/10/25/17/02/germany-2888541_1280.png",
+		"options": "프랑스,모나코,우크라이나,독일",
+		"answer": 3,
+		"category": "Country"
+	},
+	{
+		"question": "장화 모양의 반도와 섬으로 이루어졌고 콜로세움이 있는 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2013/07/13/14/15/italy-162326_1280.png",
+		"options": "대한민국,이탈리아,아일랜드,헝가리",
+		"answer": 1,
+		"category": "Country"
+	},
+	{
+		"question": "북아메리카 대륙 북부에 있는 국가로 두번째로 넓은 나라는?",
+		"url": "https://cdn.pixabay.com/photo/2017/10/31/23/52/canada-2906822_1280.png",
+		"options": "캐나다,대만,미국,홍콩",
+		"answer": 0,
+		"category": "Country"
+	},
+	{
+		"question": "피겨 스케이팅의 여자 싱글 부문에서 4대 국제 대회의 그랜드 슬램을 사상 최초로 달성한 선수로 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/UAmp21p.jpg",
+		"options": "김연아,유재석,세종대왕,이상화",
+		"answer": 0,
+		"category": "Person"
+	},
+	{
+		"question": "백성들을 위해 훈민정음을 만들고, 비의 양을 측정하는 측우기, 국악기, 혼천의 등을 만든 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/xIi8jRO.jpg",
+		"options": "유관순,세종대왕,정조,안창호",
+		"answer": 1,
+		"category": "Person"
+	},
+	{
+		"question": "1909년에 만주 하얼빈 역에서 조선 침략의 주범이었던 이토 히로부미를 사살한 독립운동가인 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/rpCui2D.jpg",
+		"options": "윤봉길,김구,안중근,안창호",
+		"answer": 2,
+		"category": "Person"
+	},
+	{
+		"question": "임진왜란 때 활약한 조선의 명장이다. 일본의 거센 진격을 막아 임진왜란의 불리한 전세를 바꾼 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/XNV1g1I.jpg",
+		"options": "간디,신사임당,김원봉,이순신",
+		"answer": 3,
+		"category": "Person"
+	},
+	{
+		"question": "1932년 상하이 홍커우 공원에서 일왕의 생일과 전쟁 승리를 기념하는 행사장에 폭탄을 던져 일제에게 피해를 입힌 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/fddUsJq.jpg",
+		"options": "윤봉길,반기문,김구,이승만",
+		"answer": 0,
+		"category": "Person"
+	},
+	{
+		"question": "대한민국의 제19대 대통령으로 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/kN1GLNA.jpg",
+		"options": "김정은,박근혜,문재인,윤동주",
+		"answer": 2,
+		"category": "Person"
+	},
+	{
+		"question": "일제강점기의 독립운동가로 아우내 장터에서 3·1만세운동을 주도했으며 군중에게 태극기를 나눠주는 등 만세시위를 주도한 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/kEphUd8.jpg",
+		"options": "명성황후,허준,유관순,장영실",
+		"answer": 2,
+		"category": "Person"
+	},
+	{
+		"question": "조선 말기와 일제 강점기에 활약했던 독립운동가이자 교육가로 대성 학교를 세웠으며 1907년 신민회를 조직한 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/2RllIWU.jpg",
+		"options": "신채호,안창호,이봉창,김구",
+		"answer": 2,
+		"category": "Person"
+	},
+	{
+		"question": "대한민국의 수영 역사상 최초로 2008년 베이징 올림픽 자유형 400m에서의 금메달을 획득함으로써 한국인 최초로 수영 올림픽 메달을 획득한 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/N13YnyQ.jpg",
+		"options": "박태환,박지성,문성민,김요한",
+		"answer": 0,
+		"category": "Person"
+	},
+	{
+		"question": " 미국의 기업인 출신 제45대 대통령으로 사진 속 인물은 누구일까요?",
+		"url": "https://imgur.com/9C6pRKb.jpg",
+		"options": "버락 오바마,도널드 트럼프,힐러리 클린턴,조지 W.부시",
+		"answer": 1,
+		"category": "Person"
+	}
 ]
